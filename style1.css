@@ -1,0 +1,58 @@
+.cabeça {
+ display: flex;
+ width: 100vw;
+}
+
+.ttl {
+	width: 50%;
+}
+
+.titulo {
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Bree Serif', serif;
+	font-family: 'Source Code Pro', monospace;
+	color: #DF0101;
+	font-size: 60px;
+	font-style: normal;
+}
+
+.paragrafo {
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Dancing Script', cursive;
+	color: #FF8000;
+	font-size: 40px;
+}
+
+.cor {
+	color: #FFFFFF;
+	background-color: #FE642E;
+	border-radius: 50%;
+	width: 180px;
+	height: 60px;
+	margin-left: 130px;
+	margin-top: 30px;
+	font-weight: 900;
+	
+}
+
+.box-lista {
+list-style: none;
+margin-top: 70px;
+
+}
+
+.lista {
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Shadows Into Light', cursive;
+ 	color: #FF0000;
+}
+
+.imagem {
+	display: flex;
+	width: 50vw;
+	height: 100vh;
+
+}
